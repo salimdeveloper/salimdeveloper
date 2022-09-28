@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Hi All ![working](https://user-images.githubusercontent.com/22329349/192771293-739a916d-2374-4e99-b43c-e3bf69e5f692.gif width="250" height="250")
 
 <!--
 **salimdeveloper/salimdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-Hi All ![working](https://user-images.githubusercontent.com/22329349/192771293-739a916d-2374-4e99-b43c-e3bf69e5f692.gif)
+
 
