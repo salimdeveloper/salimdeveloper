@@ -1,4 +1,7 @@
-### Hi there 👋 Hi All <img src="https://user-images.githubusercontent.com/22329349/192771293-739a916d-2374-4e99-b43c-e3bf69e5f692.gif width="250" height="250"/>
+### Hi there 👋 
+
+#May latest blog posts
+[Understanding Builder Design Pattern in C#](https://medium.com/@salimalamdeveloper/understanding-builder-design-pattern-in-c-89977cd930c1)
 
 <!--
 **salimdeveloper/salimdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
